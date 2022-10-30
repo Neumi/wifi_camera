@@ -40,6 +40,7 @@ The results look pretty granular currently, as I only used 4x4 pixels, which is 
 <img alt="four 4x4 pixel arrays" src="/images/pixelarray_capture.png">
 16 Pixels with correct orientation in a 2D plot. 
 
-
+## Video of 4x4 test grid:
+[![VIDEO](https://img.youtube.com/vi/Hjyqzx_mGRc/0.jpg)](https://www.youtube.com/shorts/Hjyqzx_mGRc)
 
 
